@@ -1,7 +1,7 @@
 # Network Speed Test & Traffic Analysis Tool
 
 ## Overview
-This project is a Python-based application designed to measure network performance (Download, Upload, and Ping) and analyze the results based on Traffic Analysis concepts (Topic 3).
+This project is a Python-based application designed to measure network performance (Download, Upload, and Ping) and analyze the results based on Traffic Analysis concepts .
 
 ## Features
 - Measures real-time Download and Upload speeds (in Mbps).
