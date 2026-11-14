@@ -8,7 +8,7 @@ import time
 # =========================================================
 # Network Performance & Traffic Analysis Tool
 # This tool measures Download, Upload, and Ping speeds.
-# It analyzes the results based on Traffic Analysis concepts (Topic 3).
+# It analyzes the results based on Traffic Analysis concepts .
 # It automatically saves the results to a CSV file.
 # =========================================================
 
